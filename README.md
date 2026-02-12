@@ -1,2 +1,2 @@
 # computacao-paralela-labs
-”Laborat´orios da disciplina de Computa¸c˜ao Paralela
+”Laboratorios da disciplina de Computacao Paralela
