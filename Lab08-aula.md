@@ -1,4 +1,4 @@
-# Aula 7 de Computação Paralela
+# Laboratório 8 de Computação Paralela
 
 
 ```
